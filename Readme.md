@@ -9,8 +9,8 @@ Fazer uma documentação do HTML com as principais tags
 ## Formato da documentação
 
 - As tags serão classificadas por categorias
-- As tags terão os seus príncipais atributos e sua especificação
-- As tags possuíram sua semântica
+- As tags terão os seus principais atributos e sua especificação
+- As tags possuírão sua semântica
 
 ### Exemplo
 
@@ -20,8 +20,8 @@ Categoria de "entrada de dados"
   - Semântica: Fazer entrada de dados.
   - Atributos
     - type
-      - button -> cria um botão
-      - date -> gera uma parada de data
+    - button -> cria um botão
+    - date -> gera uma parada de data
     - autocapitalize -> Valor: bool -> Ele define a primeira letra da frase como caixa alta.
 
 # Projeto
