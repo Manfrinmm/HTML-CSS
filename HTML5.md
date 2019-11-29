@@ -11,7 +11,7 @@
 
 - Offline e armazenamento: Permite que páginas web armazenem dados localmente do lado do cliente e opere de forma offline mais eficientemente.
 
-  - Gráficos e efeitos 2D/3D (canvas): viabiliza um leque diversificado de opções de representação gráfica. \* Talvez
+- Gráficos e efeitos 2D/3D (canvas): viabiliza um leque diversificado de opções de representação gráfica. \* Talvez
 
 - Multimídia: Viabiliza a utilização de áudio e vídeo de forma primorosa na Web Aberta.
 

@@ -9,8 +9,8 @@ Fazer uma documentação do HTML com as principais tags
 ## Formato da documentação
 
 - As tags serão classificadas por categorias
-- As tags terão os seus príncipais atributos e sua especificação
-- As tags possuíram sua semântica
+- As tags terão os seus principais atributos e sua especificação
+- As tags possuírão sua semântica
 
 ### Exemplo
 

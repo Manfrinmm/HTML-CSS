@@ -8,6 +8,7 @@ Esse arquivo foi feito para cada integrante documentar cada categorias e as tags
 - p
 - pre
 - span
+- a
 
 # "Mídia" 3
 
